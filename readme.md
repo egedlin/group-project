@@ -1,6 +1,5 @@
 # Class Roster Project
-
-Contributed to by Evan
+Contributed by Evan
 
 Wednesday
 
